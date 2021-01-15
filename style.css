@@ -1,0 +1,28 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgb(231, 36, 36);
+    text-align: center;
+    
+}
+h1 {
+    line-height: 50vh;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 4rem;
+    text-shadow: 2px 2px 5px white;
+}
+
+p {
+    line-height: 5;
+
+}
+body {
+    background: black;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 ;
+    border: 5px solid black;
+}
