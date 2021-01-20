@@ -11,3 +11,15 @@ function addNumber(){
     document.getElementById('result').innerHTML = result;
 
 };
+
+const navSlide = () => {
+    const burger = document.querySelecteor('.burger')
+    const nav = document.querySelecteor('.nav-links')
+    
+    burger.addEventListener('click', ( => {
+        nav.classList.toggle{'nav-active';
+    }
+    }))
+}
+
+navSlide();
